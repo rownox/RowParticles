@@ -7,6 +7,7 @@ import org.bukkit.plugin.Plugin;
 import org.bukkit.scheduler.BukkitRunnable;
 
 public class ParticleAnim {
+
     public static void drawParticle(Player p, Plugin plugin, int R, int G, int B) {
         new BukkitRunnable() {
             double time = 0;
