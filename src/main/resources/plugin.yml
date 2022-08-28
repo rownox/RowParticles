@@ -1,0 +1,4 @@
+name: RowParticles
+version: '${project.version}'
+main: net.rowparticles.RowParticles
+api-version: 1.19
